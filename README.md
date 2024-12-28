@@ -13,4 +13,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=smolvamp&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+# visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/smolvamp/count.svg)
