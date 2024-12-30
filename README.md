@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m working on: Developing new projects mainly chess and IWD manager, including open-source contributions in Computer Science, Linux, AI, Data Science, and Machine Learning.<br>👯 I’m looking to collaborate on: Projects related to AI, ML, Linux development, and Data Science applications.<br>🤝 I’m seeking help with: Securing an onsite internship to gain practical industry experience.<br>🌱 I’m currently learning: Artificial Intelligence and Machine Learning to deepen my expertise in these fields.<br>💬 Ask me about: Anything! I'll do my best to help you if I can.
 
 
