@@ -14,4 +14,7 @@
 
 ---
 # visitor Count:
-![Visitor Count](https://profile-counter.glitch.me/smolvamp/count.svg)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/smolvamp/count.svg" alt="Visitor Count" />
+</div>
+
