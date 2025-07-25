@@ -1,10 +1,23 @@
 # About Me:
 
-🔭 I’m working on: Developing new projects mainly chess and IWD manager, including open-source contributions in Computer Science, Linux, AI, Data Science, and Machine Learning.
-<br>👯 I’m looking to collaborate on: Projects related to AI, ML, Linux development, and Data Science applications.
-<br>🤝 I’m seeking help with: Securing an onsite internship to gain practical industry experience.
-<br>🌱 I’m currently learning: Artificial Intelligence and Machine Learning to deepen my expertise in these fields.
-<br>💬 Ask me about: Anything! I'll do my best to help you if I can.
+🔭 **Currently Working On:** Full-stack web development with MERN stack, including specialized projects like Rubik's Cube algorithms and Canvas.
+
+👯 **Looking to Collaborate On:** 
+- MERN stack applications and modern web development
+- Python desktop applications and system utilities
+- Algorithm implementation and optimization projects
+- Open-source contributions in web development and Python ecosystems
+
+🎯 **Project Categories:**
+- **Web Applications:** Interactive solvers, MERN stack projects
+- **Desktop Utilities:** System management tools, browsers, security applications  
+- **Algorithm Implementation:** Cube solving, data analysis
+
+💬 **Ask Me About:** MERN stack development, Python desktop applications, algorithm implementation, or anything tech-related – I'll do my best to help!
+
+---
+*Building bridges between web technologies and desktop applications, one project at a time.*
+
 
 
 ## 🌐 Socials:
@@ -23,8 +36,8 @@
 
 ---
 
-## 👥 Visitor Count:
 <div align="center">
-  <img src="https://profile-counter.glitch.me/discombobulated-otter/count.svg" alt="Visitor Count" />
+  <img src="https://github-vistors-counter.onrender.com/github?username=discombobulated-otter" alt="Visitors-Counter" width="200"/>
 </div>
+
 
