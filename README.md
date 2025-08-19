@@ -15,10 +15,6 @@
 
 💬 **Ask Me About:** MERN stack development, Python desktop applications, algorithm implementation, or anything tech-related – I'll do my best to help!
 
----
-*Building bridges between web technologies and desktop applications, one project at a time.*
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-kaushikk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28740380/kartik-kaushik) 
