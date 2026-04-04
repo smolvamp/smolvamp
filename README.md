@@ -1,33 +1,46 @@
-# About Me:
-
-🔭 **Currently Working On:** Full-stack web development with MERN stack, including specialized projects like Rubik's Cube algorithms and Canvas.
-
-👯 **Looking to Collaborate On:** 
-- MERN stack applications and modern web development
-- Python desktop applications and system utilities
-- Algorithm implementation and optimization projects
-- Open-source contributions in web development and Python ecosystems
-
-🎯 **Project Categories:**
-- **Web Applications:** Interactive solvers, MERN stack projects
-- **Desktop Utilities:** System management tools, browsers, security applications  
-- **Algorithm Implementation:** Cube solving, data analysis
-
-💬 **Ask Me About:** MERN stack development, Python desktop applications, algorithm implementation, or anything tech-related – I'll do my best to help!
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-kaushikk) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/28740380/kartik-kaushik) 
-
-## 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-## 📊 GitHub Stats:
+# Hey, I'm Kartik 👋
+ 
+iOS developer with a thing for building experiences that go beyond the screen. Currently exploring the intersection of audio, physics and interactive UI on Apple platforms.
+ 
+---
+ 
+### What I'm working on
+- iOS apps with RealityKit, AVFoundation and CoreML
+- Expanding my math-to-music engine beyond wave physics
+- Competitive programming — Codeforces Specialist, LeetCode 1800+
+ 
+### Ask me about
+Swift, iOS development, spatial audio, or algorithm implementation — happy to talk about any of it.
+ 
+---
+ 
+## 🛠 Tech Stack
+ 
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ 
+---
+ 
+## 🌐 Socials
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartik-kaushikk)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/28740380/kartik-kaushik)
+ 
+---
+ 
+## 📊 GitHub Stats
+ 
 <div align="left">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=discombobulated-otter&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt=" " width = 400px/> <br> -->
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=discombobulated-otter&theme=dark&hide_border=false" alt=" " width = 400px /><br>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discombobulated-otter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=" " width = 400px />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=discombobulated-otter&theme=dark&hide_border=false" alt=" " width="400px" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discombobulated-otter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=" " width="400px" />
 </div>
 
 ---
