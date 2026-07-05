@@ -39,14 +39,14 @@ Swift, iOS development, spatial audio, or algorithm implementation — happy to 
 ## 📊 GitHub Stats
  
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=discombobulated-otter&theme=dark&hide_border=false" alt=" " width="400px" /><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=discombobulated-otter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=" " width="400px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kartikkaushikk&theme=dark&hide_border=false" alt=" " width="400px" /><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kartikkaushikk&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=" " width="400px" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-vistors-counter.onrender.com/github?username=discombobulated-otter" alt="Visitors-Counter" width="200"/>
+  <img src="https://github-vistors-counter.onrender.com/github?username=kartikkaushikk" alt="Visitors-Counter" width="200"/>
 </div>
 
 
